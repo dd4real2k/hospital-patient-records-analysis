@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Large or generated files
+*.log
+
+# Optional: ignore local database if you don't want versioning
+# data/hospital.db
